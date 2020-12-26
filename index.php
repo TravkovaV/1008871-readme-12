@@ -60,7 +60,7 @@ $user_name = 'Nika'; // укажите здесь ваше имя
                         </a>
                     </li>
                 </ul>
-<?php endif; ?>
+<?php endif; ?> 
 <?php if ($is_auth==1): ?>
                 <!-- здесь должен быть PHP код, который показывает следующий тег по условию -->
                 <ul class="header__user-nav">
